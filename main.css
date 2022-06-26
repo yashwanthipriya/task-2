@@ -1,0 +1,19 @@
+table{  
+    border-collapse: collapse;  
+    width: 50%;  
+    margin-left: 400px;
+}  
+table th{  
+    background-color: rgb(27, 95, 6);  
+   
+    padding: 10px;  
+}  
+table td{  
+    padding: 12px;  
+   
+    font-size: 1em;  
+    text-align: center;  
+}  
+table tr{  
+    background-color: peachpuff;  
+}  
